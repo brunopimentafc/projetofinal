@@ -126,3 +126,42 @@ O modelo final pode apoiar empresas em:
 
 ## 📂 Estrutura do Repositório
 
+projetofinal/
+│
+├── notebook/
+│ └── projeto_semantix.ipynb
+│
+├── data/
+│ └── README.md (orientações para baixar os dados)
+│
+├── images/
+│ └── gráficos utilizados no notebook (opcional)
+│
+├── README.md
+└── requirements.txt
+
+---
+
+
+---
+
+## ▶️ Como Executar
+
+1. Baixe o dataset público da Olist:  
+   https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce  
+
+2. Salve os arquivos `.csv` na pasta:
+data/
+
+3. Instale as dependências:
+pip install -r requirements.txt
+
+4. Abra o notebook:
+jupyter notebook notebook/projeto_semantix.ipynb
+
+---
+
+## 📧 Contato
+
+**Bruno Pimenta**  
+GitHub: https://github.com/brunopimentafc
