@@ -64,9 +64,9 @@ A proporção de pedidos atrasados é de aproximadamente **8%**, tornando o prob
 
 Criei uma métrica de negócio estimando o prejuízo financeiro causado por atrasos:
 
-\\[
+\[
 \text{custo\_atraso} = 0.5 \times \text{freight\_value}
-\\]
+\]
 
 Essa estimativa representa custos como:
 
